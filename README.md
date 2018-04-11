@@ -1,4 +1,4 @@
-# Multilevel Queue Schecduling
+# Multilevel Queue Scheduling
 Multi Level Queue Scheduling Algorithm in Operating System
 
 ## Test Case
