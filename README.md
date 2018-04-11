@@ -3,6 +3,7 @@ Multi Level Queue Scheduling Algorithm in Operating System
 
 
 **Quantum Time: 4s**
+
 **Queue Shift Time: 10s**
 
 ## Test Case
