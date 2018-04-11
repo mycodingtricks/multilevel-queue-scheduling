@@ -1,4 +1,4 @@
-# multilevel-queue-scheduling
+# Multilevel Queue Schecduling
 Multi Level Queue Scheduling Algorithm in Operating System
 
 ## Test Case
@@ -9,7 +9,7 @@ $ gcc test_case.c
 $ ./a.out
 ```
 
-##Algorithms Used
+## Algorithms Used
 
 |Priority Range|Algorithm|
 |--------------|---------|
