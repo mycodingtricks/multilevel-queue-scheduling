@@ -1,6 +1,10 @@
 # Multilevel Queue Scheduling
 Multi Level Queue Scheduling Algorithm in Operating System
 
+
+**Quantum Time: 4s**
+**Queue Shift Time: 10s**
+
 ## Test Case
 Compile `test_case.c` file and **Enter the Number of Process** as Input to check the Algorithms. 
 
