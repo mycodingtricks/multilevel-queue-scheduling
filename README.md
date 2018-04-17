@@ -16,8 +16,8 @@ $ ./a.out
 
 ## Algorithms Used
 
-|Priority Range|Algorithm|
-|--------------|---------|
-|1-3|First Come First Serve|
-|4-6|Priority Scheduling|
-|>6|Round Robin|
+|Queue|Priority Range|Algorithm|
+|---------|--------------|---------|
+|1|1-3|First Come First Serve|
+|2|4-6|Priority Scheduling|
+|3|>6|Round Robin|
